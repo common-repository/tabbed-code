@@ -1,0 +1,12 @@
+.tc_tab {
+    padding: 0 !important;
+}
+
+.tc_tab_code_pre {
+    background-color: white;
+    padding: 0 5px !important;
+}
+
+.tc_tab_code {
+    background-color: white;
+}
